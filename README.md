@@ -40,7 +40,8 @@ salty, and spicy."</blockquote>
 <p>
 <sup>1/4</sup>cup of fish sauce adds authentic Thai flavor.<br>
 <sub>1</sub>tablespoon of chili paste gives the soup its signature heat.<br></p>
-<img src="https://edube.org/uploads/media/default/0001/04/thai-soup.jpg"alt="tom yum goong"/>
+    <img 
+src="https://edube.org/uploads/media/default/0001/04/thai-soup.jpg"alt="tom yum goong"/>
 
 
 <br><br>
