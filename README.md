@@ -54,7 +54,18 @@ cellspacing="0">
         <td>lemongrass</td>
         <td>2 stalks</td>
     </tr>
-
+      <tr>
+        <td>Thai basil</td>
+        <td>1 cup</td>
+      </tr>
+      <tr>
+        <td>Kaffir Lime Leaves</td>
+        <td>3 leaves</td>
+      </tr>
+      <tr>
+        <td>Shrimp</td>
+        <td>500g</td>
+    </tr>
 <tr>
     <td colspan="2">preperation time: 20 minutes</td>
 </tr>
