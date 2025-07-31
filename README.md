@@ -7,6 +7,7 @@
 <meta name="embark on a culinary adventure with  taste of travel, exploring global flavor recipe.">
 </head>
 
+<body>
 <h1>Discover the flavor of thailand</h1>
 <h2>Tom Yum Goong: A spicy thai delight</h2>
 <p>describing Tom Yum Goong, emphasizing its
@@ -33,7 +34,9 @@ salty, and spicy."</blockquote>
 <strong>3.Stir in shrimp and <em>cook</em> until pink.</strong><br>
 <strong>4.<em>Season</em> with fish sauce, lime juice, and chili paste.</strong><br>
 <strong>5.<em>Garnish</em> with Thai basil and serve hot.</strong>
-<h3>Cooking tips</h3><p>
+
+<h3>Cooking tips</h3>
+<p>
 <sup>1/4</sup>cup of fish sauce adds authentic Thai flavor.<br>
 <sub>1</sub>tablespoon of chili paste gives the soup its signature heat.<br>
 </p>
