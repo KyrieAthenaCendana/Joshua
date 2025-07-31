@@ -35,7 +35,8 @@ salty, and spicy."</blockquote>
 <strong>5.<em>Garnish</em> with Thai basil and serve hot.</strong>
 <h3>Cooking tips</h3><p>
 <sup>1/4</sup>cup of fish sauce adds authentic Thai flavor.<br>
-<sub>1</sub>tablespoon of chili paste gives the soup its signature heat.<br></p>
+<sub>1</sub>tablespoon of chili paste gives the soup its signature heat.<br>
+</p>
 <img src="https://edube.org/uploads/media/default/0001/04/thai-soup.jpg"alt="tom yum goong"/>
 
 <br><br>
@@ -43,12 +44,12 @@ salty, and spicy."</blockquote>
 cellpadding="5"
 cellspacing="0">
 <caption><strong>recipe details</strong></caption>
-<thread>
+<thead>
 <tr>
-<th>Ingridients</th>
+<th>Ingredients</th>
 <th>quantity</th>
 </tr>
-</thread>
+</thead>
 <tbody>
     <tr>
         <td>lemongrass</td>
@@ -67,13 +68,12 @@ cellspacing="0">
         <td>500g</td>
     </tr>
 <tr>
-    <td colspan="2">preperation time: 20 minutes</td>
+    <td colspan="2">preparation time: 20 minutes</td>
 </tr>
 <tr>
     <td colspan="2"><strong>Serving Suggestion:</strong>serve with steamed or jasmine tea.</td>
 </tr>
 </tbody>
 </table>
-
 </body>
 </html>
