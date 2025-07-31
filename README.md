@@ -17,11 +17,12 @@ features a tantalizing blend of lemongrass, galangal, and kaffir lime
 leaves, combined with succulent shrimp.</p>
 
 <h3>Ingridients</h3>
-<ul><li>
-    <strong>Lemongrass:</strong>2 stalks</li><li>
-    <strong>thai basil:</strong>1 cup</li><li>
-    <strong>khaffir lime leaves:</strong>3 leaves</li><li>
-    <strong>shrimp:</strong>500g</li></ul>
+<ul>
+   <li><strong>Lemongrass:</strong>2 stalks</li>
+   <li><strong>thai basil:</strong>1 cup</li>
+   <li><strong>khaffir lime leaves:</strong>3 leaves</li>
+   <li><strong>shrimp:</strong>500g</li>
+</ul>
 
 <blockquote>Chef Somchai, a
 Thai cuisine expert, about the essence of Tom Yum Goong: "The key to a
@@ -75,8 +76,8 @@ cellspacing="0">
 </tr>
 <tr>
     <td colspan="2"><strong>Serving Suggestion:</strong>serve with steamed or jasmine tea.</td>
-</tr>
-</tbody>
-</table>
+      </tr>
+   </tbody>
+  </table>
 </body>
 </html>
