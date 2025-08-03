@@ -33,13 +33,7 @@
     <strong>shrimp:</strong>500g</li></ul>
 
 
-<blockquote>Chef Somchai, a
-
-Thai cuisine expert, about the essence of Tom Yum Goong: "The key to a
-
-delicious Tom Yum Goong lies in the balance of flavors – sweet, sour,
-
-salty, and spicy."</blockquote>
+<blockquote>Chef Somchai, a Thai cuisine expert, about the essence of Tom Yum Goong: "The key to adelicious Tom Yum Goong lies in the balance of flavors – sweet, sour, salty, and spicy."</blockquote>
 
 
 <h3>Preparation</h3>
