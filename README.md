@@ -36,7 +36,7 @@ leaves, combined with succulent shrimp.</p>
 
     <strong>thai basil:</strong>1 cup</li><li>
 
-    <strong>khaffir lime leaves:</strong>3 leaves</li><li>
+    <strong>kaffir lime leaves:</strong>3 leaves</li><li>
 
     <strong>shrimp:</strong>500g</li></ul>
 
@@ -74,12 +74,12 @@ salty, and spicy."</blockquote>
 <table border="1"
 cellpadding="5"
 cellspacing="0"><caption><strong>recipe details</strong></caption>
-<thread>
+<thead>
 <tr>
-<th>Ingridients</th>
+<th>Ingredients</th>
 <th>quantity</th>
 </tr>
-</thread>
+</thead>
 <tbody>
 
 <tr>
