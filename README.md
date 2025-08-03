@@ -18,9 +18,7 @@
   
 <h1>Discover the flavor of thailand</h1>
 <h2>Tom Yum Goong: A spicy thai delight</h2>
-<p>describing Tom Yum Goong, emphasizing its
-bold flavors and aromatic spices:Tom Yum Goong is a classic Thai souprenowned for its bold flavors and aromatic spices.This hot and sour soup
-features a tantalizing blend of lemongrass, galangal, and kaffir lime leaves, combined with succulent shrimp.</p>
+<p>Tom Yum Goong is a classic Thai souprenowned for its bold flavors and aromatic spices.This hot and sour soup features a tantalizing blend of lemongrass, galangal, and kaffir lime leaves, combined with succulent shrimp.</p>
 
 <h3>Ingridients</h3>
 
