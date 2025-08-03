@@ -33,7 +33,7 @@
     <strong>shrimp:</strong>500g</li></ul>
 
 
-<blockquote>"The key to adelicious Tom Yum Goong lies in the balance of flavors – sweet, sour, salty, and spicy."-Chef Somchai </blockquote>
+<blockquote>"The key to adelicious Tom Yum Goong lies in the balance of flavors – sweet, sour, salty, and spicy." - Chef Somchai </blockquote>
 
 
 <h3>Preparation</h3>
