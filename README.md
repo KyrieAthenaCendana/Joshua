@@ -108,5 +108,6 @@ cellspacing="0"><caption><strong>recipe details</strong></caption>
 </tr>
 </tbody>
 </table>
+
 </body>
 </html>
