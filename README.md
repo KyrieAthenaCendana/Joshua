@@ -14,7 +14,7 @@
 
 </head>
 
-
+<body>
 <h1>Discover the flavor of thailand</h1>
 
 <h2>Tom Yum Goong: A spicy thai delight</h2>
