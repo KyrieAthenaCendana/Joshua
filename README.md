@@ -15,14 +15,12 @@
 </head>
 
 <body>
+  
 <h1>Discover the flavor of thailand</h1>
-
 <h2>Tom Yum Goong: A spicy thai delight</h2>
-
 <p>describing Tom Yum Goong, emphasizing its
-
-bold flavors and aromatic spices: "Tom Yum Goong is a classic Thai soup
-
+bold flavors and aromatic spices: "Tom Yum Goong is a classic Thai soup"
+  
 renowned for its bold flavors and aromatic spices. This hot and sour soup
 
 features a tantalizing blend of lemongrass, galangal, and kaffir lime
